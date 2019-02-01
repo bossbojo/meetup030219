@@ -1,4 +1,4 @@
-<h1>Meetup 03-02-19</h1>
+<h1>TechUbon meetup 1.0 : 03-02-19</h1>
 <h2>Mini workshop : SQL server , Nodejs , React</h2>
 <div>
     <img src="flow.PNG">
