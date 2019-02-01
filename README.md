@@ -49,12 +49,23 @@
         </tr>
     </table>
 </div>
-<h2>Place at Joint Space ubon </h2>
-<img src="561000002614001.JPEG" width="250px">
+<h2>Place at YUU HOTEL & Cafe </h2>
+<img src="yuuhotel.jpg" width="250px">
 <h2>Requirement for workshop</h2>
 <ul>
     <li>Your labtop MacOs/Window/Linux</li>
-    <li>Docker Engine</li>
+    <li>install Node >= version 6</li>
+    <li>npm >= version 5.2</li>
+    <li>Docker</li>
     <li>Azure data studio</li>
-    <li>Text editors (recommend visual studio code)</li>
+    <li>Visual studio code</li>
 </ul>
+<h2>
+Support by
+</h2>
+<div>
+    <img src="avesta.jpg" width="150px" height="150px">
+    <img src="dicl.jpg" width="150px" height="150px">
+    <img src="fuber.png" width="150px">
+    <img src="yuuhotel.jpg" width="150px">
+</div>
