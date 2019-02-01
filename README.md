@@ -63,7 +63,7 @@
 <h2>
 Support by
 </h2>
-<div>
+<div style="text-align: center;">
     <img src="avesta.jpg" width="150px" height="150px">
     <img src="dicl.jpg" width="150px" height="150px">
     <img src="fuber.png" width="150px">
